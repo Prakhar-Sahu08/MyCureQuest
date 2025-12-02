@@ -25,13 +25,6 @@ This is a starter backend scaffold for the CureQuest project.
 - Add services and DTOs using ModelMapper
 - Implement expense-estimator endpoint
 
-## Research Paper (uploaded)
-Your research paper file is available at:
-`/mnt/data/Research Paper on CureQuest.pdf (2).pdf`
-
-You can reference it while developing.
-
----
 
 
 Added: Patient, Disease, Expense, Hospital, Feedback modules; full JWT security; Expense Estimator endpoint at /api/estimator/calculate
